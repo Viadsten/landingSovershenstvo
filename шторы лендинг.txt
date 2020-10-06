@@ -1,0 +1,1347 @@
+<div class="uk-light">
+<div class="uk-position-relative uk-visible-toggle uk-light"tabindex="-1"
+        uk-slideshow="animation: push; ratio:false;">
+        <ul class="uk-slideshow-items"uk-height-viewport="min-height: 300">
+            
+            <li>
+                <div class="uk-position-cover uk-animation-kenburns uk-transform-origin-top-right">
+                    <img src="https://kanchi.ru/assets/images/curtains_large_03.jpg"alt=""uk-cover>
+                </div>
+            </li>
+
+            <li>
+                <div class="uk-position-cover uk-animation-kenburns uk-transform-origin-center-right">
+                    <img src="https://kanchi.ru/assets/images/curtains_large_02_.jpg"alt=""uk-cover>
+                </div>
+            </li>
+
+            <li>
+                <div class="uk-position-cover uk-animation-kenburns uk-transform-origin-center-left">
+                    <img src="https://kanchi.ru/assets/img/bbaner.jpg"alt=""uk-cover>
+                </div>
+            </li>
+
+            <li>
+                <div class="uk-position-cover uk-animation-kenburns uk-transform-origin-center-left">
+                    <img src="https://kanchi.ru/assets/images/curtains_large_01.jpg"alt=""uk-cover>
+                </div>
+            </li>
+
+        </ul>
+
+        <div class="uk-overlay  uk-position-bottom-center uk-position-medium">
+            <div class="section def uk-text-center">
+                <div class="top-border left"></div>
+                <div class="top-border right"></div>
+                <h1 class="uk-padding-remove">Пошив на заказ</h1>
+                <div class="uk-flex uk-flex-center">
+                    <p class="uk-margin-remove uk-h4 uk-text-center"style="font-weight:300;color:#fff;">
+                        Разработка дизайна и пошив авторских штор дешевле до 30% чем у частных дизайнеров и салонов Москвы и
+                        Петербурга
+                    </p>
+                </div>
+                <p class="uk-margin-remove-bottom">
+                    <a class="uk-button uk-button-default uk-button-small uk-margin-right" href="/index.php?id=47983" id="button">Готовые комплекты</a>
+                    <a class="uk-button uk-button-default uk-button-small" id="action" href="#modal-full" uk-toggle>Выбери дизайн</a>
+                    <a class="uk-button uk-button-default uk-button-small uk-margin-small-top uk-margin-small-bottom" id="action" href="/index.php?id=48016">Калькулятор штор</a>
+                </p>
+            </div>
+        </div>
+
+        <a class="uk-position-center-left uk-position-small uk-hidden-hover"href="#"uk-slidenav-previous
+            uk-slideshow-item="previous"></a>
+        <a class="uk-position-center-right uk-position-small uk-hidden-hover"href="#"uk-slidenav-next
+            uk-slideshow-item="next"></a>
+    </div>
+
+    <div class="uk-container uk-container-large">
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom uk-margin-top"
+            style="font-weight:300;">
+            Давайте знакомиться
+        </h1>
+        <div class="uk-child-width-1-2@l uk-text-center uk-grid-match  uk-margin-medium-top uk-margin-medium-bottom"
+            uk-grid>
+            <div>
+                <div class="uk-child-width-1-2@s uk-grid uk-text-center"uk-grid>
+                    <div>
+                        <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                            <img src="./pic/lets-get-acquainted_01.jpg"alt=""uk-cover>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                            <img src="./pic/lets-get-acquainted_02.jpg"alt=""uk-cover>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                            <img src="./pic/lets-get-acquainted_03.jpg"alt=""uk-cover>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                            <img src="./pic/lets-get-acquainted_04.jpg"alt=""uk-cover>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-card-body uk-text-left">
+                    <p class="uk-margin-remove uk-h4"style="font-weight:300;">
+                        Текстильное декорирование интерьера и продажа изделий направления Солнцезащита является для нас
+                        отдельным и важным направлением нашей деятельности. Отличительной особеностью от других салонов
+                        и магазинов тканей является то, что мы стараемся все этапы заказа делать сами, от доставки из-за
+                        границы до монтажа штор - это позволяет нам успешно и на протяжении многих конкурировать на
+                        рынке. В отличии от большинства конкурентов из Мск и спб мы имеем свой пошивочный цех с
+                        современным оборудованием. За многолетний период работы мы закончили более 3500 тыс проектов. У
+                        нас Вы можете:
+                    </p>
+                    <ul class="uk-list uk-list-bullet uk-margin-small-top uk-light">
+                        <li style="font-weight:300;font-size:1em;">Заказать ткани для штор и обивки любых мировых
+                            брендов под заказ с доставкой всего от 7 дней из Англии,Германии,Италии , США и др стран.
+                        </li>
+                        <li style="font-weight:300;font-size:1em;">Купить ткани для штор и обивки из ассортимента
+                            огромной складской программы</li>
+                        <li style="font-weight:300;font-size:1em;">Заказать разработку дизайна и пошив штор, покрывал,
+                            подушек и обивки мебели согласно размерам Ваших окон , кроватей и предметов мебели.</li>
+                        <li style="font-weight:300;font-size:1em;">Заказать любые карнизы для штор в т.ч с дистанционным
+                            управлением
+                        </li>
+                        <li style="font-weight:300;font-size:1em;">Разместить заказ из Другого города РФ КЗ БЛР и даже
+                            из за границы ( с доставкой за границу на указанный Вами адрес</li>
+                        <li style="font-weight:300;font-size:1em;">Заказать монтаж штор, жалюзи и др солнцезащитных
+                            систем
+                        </li>
+                        <li style="font-weight:300;font-size:1em;">Заказать демонтаж карнизов и солнцезащитных систем
+                        </li>
+                        <li style="font-weight:300;font-size:1em;">Заказать химчистку штор с демотажом и обратным
+                            монтажом и драпировкой штор по совершено новой технологии</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom"style="font-weight:300;">
+            Как мы работаем в Санкт-Петербурге
+        </h1>
+        <div class="uk-child-width-1-4@l uk-child-width-1-1@s uk-grid-match"uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/stagesofwork01.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300; color:#fff;">Размещение заявки
+                        </h3>
+                        <p style="font-weight:300;">Размещаете заявку на выезд дизайнера у нас на сайте или тут, с переходом на заявку вызова. Мы
+                            можем приехать к вам с каталогами или Вы приезжаете к нам в салон, мы работаем каждый день.
+                            При выезде на адрес ассортимент каталогов и образцов которые могут Вам подойти - выясняется
+                            при общении дизайнера и заказчика по телефону. Если приезжаете Вы, конечно же доступный Вам
+                            ассортимент будет в разы больше. Мы рисуем эскизы, считаем количество тканей и т.д. Выезд
+                            дизайнера у нас платный по городу 2000 т.р.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/stagesofwork02.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300;color:#fff;">Согласование и оформление
+                        </h3>
+                        <p style="font-weight:300;">Когда эскизы и расчёты готовы, ткани, карнизы и смета утверждены заказчиком - мы оформляем
+                            договор и вы вносите 50-70% предоплату за запуск заказа. Если Вас что-то не устроило в
+                            подсчете или эскизах дизайнер снова встречается с вами и Вы обсуждаетe то, что не нравится.
+                            Мы готовы с вами разговаривать столько, сколько потребуется (обычно 2-3 раз достаточно). До
+                            момента размещения заказа у нас, эскизы являются нашей собственностью (фото с них не
+                            делаются, они не пересылаются по почте и не сканируются).
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/stagesofwork03.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300;color:#fff;">Заказ тканей и пошив штор.</h3>
+                        <p style="font-weight:300;">После того как пришли ткани, карнизы и др., мы сообщаем заказчику что всё пришло, и, если
+                            заказчик заказал пошив у нас - мы начинаем шить. Если заказаны были только ткани или
+                            карнизы, то Вы делаете доплату за заказ, и если хотите - сами забираете у нас всё, или мы
+                            организовываем доставку на указанный вами адрес (в т.ч в любой город). После готовности
+                            пошива, дизайнер согласовывает удобную Вам дату и время выезда на монтаж штор и карнизов
+                            (если Вы это заказали).
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/stagesofwork04.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300;color:#fff;">Монтаж, развеска, драпировка</h3>
+                        <p style="font-weight:300;">Если монтировать будем мы, вы принимаете работу после монтажа, и оплачиваете остаток заказа.
+                            <br> Наши монтажники мастера высокого уровня и мы даем гарантию на все виды работ.
+                            <br> Мы осуществляем монтаж любых солнцезащитных систем, в том числе и с дистанционным
+                            пультом управления Римских штор, Рулонных, Австрийских, Плиссе и различной формы пергол
+                            (навесов).
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom"style="font-weight:300;">
+            Как мы работаем в Москве
+        </h1>
+        <div class="uk-child-width-1-4@l uk-child-width-1-1@s uk-grid-match"uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/HowweworkinMoscow_01.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300;color:#fff;">Общение с дизайнером</h3>
+                        <p style="font-weight:300;">Делаете заявку на сайте или тут, указываете удобное время для видео связи с вами. В назначенное
+                            время дизайнер связывается с вами по скайпу или другим меседжерам, где Вы получаете консультации (сколько потребуется) даёте установку дизайнеру по ценам,
+                            задаете вопросы и получаете ответы.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/HowweworkinMoscow_02.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300;color:#fff;">Подбираем ткани и карнизы</h3>
+                        <p style="font-weight:300;">Дизайнер подбирает ткани, карнизы, связываясь с заказчиком в оговоренные даты и время. В процессе общения утверждаются образцы тканей, цвет и дизайны штор и карнизов. Если всё
+                            утверждено подписываем договор и вы делает предоплату за запуск заказа.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/HowweworkinMoscow_03.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300;color:#fff;">Заказ тканей и пошив штор.</h3>
+                        <p style="font-weight:300;">Если пошив заказан у нас мы начинаем шить, если заказаны были только ткани и карнизы без
+                            пошива, вы делает доплату и мы доставим это в любой город и на любой адрес (даже за
+                            границу)
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-light">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/HowweworkinMoscow_04.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title"style="font-weight:300;color:#fff;">Доставка монтаж развеска</h3>
+                        <p style="font-weight:300;">Если монтаж развеска штор и драпировка заказан у нас Мы организуем монтаж или своими силами(
+                            если сумма заказа позволяет нам это сделать) или силами наших партнёров в вашем городе.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom"style="font-weight:300;">
+        С какими видами штор мы работаем?
+    </h1>
+    <div class="uk-child-width-1-2 uk-child-width-1-4@m uk-grid-match uk-grid-collapse uk-margin-medium-bottom uk-text-center"
+        uk-grid>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"src="./pic/typesofcurtains_01.jpg"alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Рулонные</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"
+                    src="./pic/typesofcurtains_02.jpg"alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Австрийские</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"src="./pic/typesofcurtains_03.jpg"
+                    alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Римские</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"
+                    src="./pic/typesofcurtains_04.jpg"alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Французские</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"
+                    src="./pic/typesofcurtains_05.jpg"alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">С ламбрекеном</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"
+                    src="./pic/typesofcurtains_06.jpg"alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Плиссе</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"
+                    src="./pic/typesofcurtains_07.jpg"alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Английские</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div>
+            <div class="uk-inline-clip uk-transition-toggle"tabindex="0">
+                <img class="uk-transition-scale-up uk-transition-opaque"src="./pic/typesofcurtains_08.jpg"
+                    alt="">
+                <div class="uk-position-center">
+                    <div class="uk-transition-slide-top-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">Шторы</h1>
+                    </div>
+                    <div class="uk-transition-slide-bottom-small">
+                        <h1 class="uk-margin-remove"style="font-weight:700; color:#000;">С электромотором</h1>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="uk-container uk-container-expand">
+        <div class="uk-child-width-1-2@s uk-child-width-1-3@m uk-child-width-1-4@l uk-child-width-1-5@xl uk-text-center uk-grid-small uk-grid" uk-grid="">
+
+        <div class="uk-first-column">
+            <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/B24DxpkDUhs/embed/?cr=1&amp;v=12&amp;wp=351&amp;rd=https%3A%2F%2Fxn-----klczfnbhhs8db6bxc.xn--p1ai&amp;rp=%2F#%7B%22ci%22%3A0%2C%22os%22%3A1071.5199999976903%2C%22ls%22%3A421.19999998249114%2C%22le%22%3A421.9249999150634%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="532" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe>
+        </div>
+
+        <div>
+            <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-1" src="https://www.instagram.com/p/ByVsN6zlBQf/embed/?cr=1&amp;v=12&amp;wp=351&amp;rd=https%3A%2F%2Fxn-----klczfnbhhs8db6bxc.xn--p1ai&amp;rp=%2F#%7B%22ci%22%3A1%2C%22os%22%3A1078.224999946542%2C%22ls%22%3A421.19999998249114%2C%22le%22%3A421.9249999150634%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="532" data-instgrm-payload-id="instagram-media-payload-1" scrolling="no" style="background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe>
+        </div>
+
+        <div>
+            <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-2" src="https://www.instagram.com/p/B1x3cyEls-t/embed/?cr=1&amp;v=12&amp;wp=351&amp;rd=https%3A%2F%2Fxn-----klczfnbhhs8db6bxc.xn--p1ai&amp;rp=%2F#%7B%22ci%22%3A2%2C%22os%22%3A1081.6549999872223%2C%22ls%22%3A421.19999998249114%2C%22le%22%3A421.9249999150634%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="532" data-instgrm-payload-id="instagram-media-payload-2" scrolling="no" style="background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe>
+        </div>
+
+        <div>
+            <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-3" src="https://www.instagram.com/p/Br-IvG1hoz4/embed/?cr=1&amp;v=12&amp;wp=351&amp;rd=https%3A%2F%2Fxn-----klczfnbhhs8db6bxc.xn--p1ai&amp;rp=%2F#%7B%22ci%22%3A3%2C%22os%22%3A1742.1249999897555%2C%22ls%22%3A421.19999998249114%2C%22le%22%3A421.9249999150634%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="532" data-instgrm-payload-id="instagram-media-payload-3" scrolling="no" style="background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe>
+        </div>
+
+        <div class="uk-grid-margin uk-first-column">
+            <iframe class="instagram-media instagram-media-rendered" id="instagram-embed-4" src="https://www.instagram.com/p/Br-IafBhy09/embed/?cr=1&amp;v=12&amp;wp=351&amp;rd=https%3A%2F%2Fxn-----klczfnbhhs8db6bxc.xn--p1ai&amp;rp=%2F#%7B%22ci%22%3A4%2C%22os%22%3A1772.9149999795482%2C%22ls%22%3A421.19999998249114%2C%22le%22%3A421.9249999150634%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="532" data-instgrm-payload-id="instagram-media-payload-4" scrolling="no" style="background: white; max-width: 540px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe>
+        </div>
+
+    </div>
+    </div>
+
+    <div class="uk-container uk-container-large">
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom"style="font-weight:300;">
+            Почему наши шторы на 15-30% дешевле <br> чем в салонах Москвы и Петербурга?
+        </h1>
+        <div class="uk-child-width-1-2@l uk-text-center uk-grid-match uk-margin-medium-top uk-margin-medium-bottom"
+            uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small uk-card-body uk-text-left">
+                    <p class="uk-dropcap uk-h4"style="font-weight:300;">1Мы обладаем наибольшим опытом в этом бизнесе
+                        чем основная масса салонов и магазинов, мы пережили все экономические кризисы в стране-разве
+                        этот не говорит о нашем профессионализме.
+                    </p>
+                    <hr class="uk-margin-medium-top">
+                    <p class="uk-dropcap uk-h4"style="font-weight:300;">2В отличии от конкурентов мы делаем полный цикл
+                        работ от заказа тканей за границей до развески сшитых нами штор - без посредников, это
+                        позволяет нам держать наиболее выгодную цену на ткани и пошив.
+                    </p>
+                    <hr class="uk-margin-medium-top">
+                    <p class="uk-dropcap uk-h4"style="font-weight:300;">3Мы являемся официальными поставщиками многих
+                        известных мировых брендов, что позволяет нам иметь преимущества не только в условиях работы с
+                        фабриками но и в сроках доставки. 90% заказов из европы и других стран
+                        доставляются от 7 дней до СПБ.
+                    </p>
+                    <hr class="uk-margin-top">
+                    <p class="uk-dropcap uk-h4"style="font-weight:300;">4Мы имеем свой пошивочный цех с самым
+                        современным оборудованием.
+                    </p>
+                </div>
+            </div>
+            <div>
+                <div class="uk-child-width-1-2@s uk-grid uk-text-center"uk-grid>
+                    <div>
+                            <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                                    <img src="./pic/curtainsarecheaper_01.jpg"alt=""
+                                        uk-cover>
+                                </div>
+                    </div>
+                    <div>
+                        <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                            <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/conditions_01.jpg"alt=""
+                                uk-cover>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                            <img src="./pic/curtainsarecheaper_03.jpg"alt=""uk-cover>
+                        </div>
+                    </div>
+                    <div>
+                            <div class="uk-tile uk-tile-default uk-height-medium uk-cover-container">
+                                    <img src="./pic/curtainsarecheaper_04.jpg"alt=""uk-cover>
+                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-remove"style="font-weight:300;">
+            Цены</h1>
+        <h3 class="uk-margin-remove-top uk-margin-medium-bottom uk-text-center" style="font-weight:300;">Цена шторы зависит от цены ткани, ширины, сложности пошива выбранного дизайна портьеры <br> поэтому ниже мы приводим Вам цены на шторы, сшитые из тканей разной цены и состава, самого простого дизайна (прямые полотна в пол) <br> точный расчёт Вы можете получить воспользовавшись нашим <a class="uk-button uk-button-default uk-button-small" href="#" id="button">калькулятором</a></h3>
+        <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-margin-medium-bottom uk-grid-small"uk-grid>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_01.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">32810 руб.</h3>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань плотная: </span> 100% Полиэстер.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Германия.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_02.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">13340 руб.</h3>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань прозрачная: </span> 100% Лён.</p>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Германия.</p>
+                         <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_03.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">64380 руб.</h3>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань плотная: </span> 100% Шёлк.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Англия.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_04.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">35380 руб.</h3>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань плотная: </span> 42% Лён / 58% Полиэстер.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Франция.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_05.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">29600 руб.</h3>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань плотная: </span> 100% Лён Атлас Жаккард.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Франция.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_06.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">48210 руб.</h3>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань плотная: </span> 90% Лён / 10% Полиэстер.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Англия.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_07.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">13440 руб.</h3>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань плотная: </span> 100% Полиэстер.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Франция.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default uk-card-small">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/selectandcalculate_08.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body uk-light">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">66580 руб.</h3>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Размер шторы: </span> 160*260 h, два полотна.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Длина шторы: </span>В пол.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Дизайн: </span>№31.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Шторная лента: </span>BANDEX с регулировкой высоты.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Карниз: </span>профильный белый 180 см.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Ткань плотная: </span> Вискоза, Лён, Шёлк, Хлопок.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Страна поставщика: </span>Англия.</p>
+                        <p class="uk-margin-remove" style="font-weight:300;"><span class="uk-text-meta">Срок пошива: </span> 3 дня.</p>
+                        <a class="uk-button uk-button-default uk-width-1-1 uk-margin-small-top" id="button" href="#modal-full" uk-toggle>Рассчитать точно</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+<div class="uk-container uk-container-large">
+<div class="uk-grid-small uk-child-width-1-3@s uk-grid" uk-grid="">
+  <div>
+    <iframe src="https://www.youtube.com/embed/eVIydT65es0"
+            width="1920"
+            height="1080"
+            frameborder="0"
+            allowfullscreen=""
+            uk-responsive=""
+            uk-video="automute: true;autoplay:false;"
+            class="uk-responsive-width"></iframe>                  
+  </div>
+  <div>
+    <iframe src="https://www.youtube.com/embed/bVpc1pNhTZw"
+            width="1920"
+            height="1080"
+            frameborder="0"
+            allowfullscreen=""
+            uk-responsive=""
+            uk-video="automute: true;autoplay:false;"
+            class="uk-responsive-width"></iframe>                  
+  </div>
+  <div>
+    <iframe src="https://www.youtube.com/embed/_hnblCCBPtY"
+            width="1920"
+            height="1080"
+            frameborder="0"
+            allowfullscreen=""
+            uk-responsive=""
+            uk-video="automute: true;autoplay:false;"
+            class="uk-responsive-width"></iframe>                  
+  </div>
+</div>
+</div>
+        
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom"style="font-weight:300;">
+            Наши партнёры
+        </h1>
+        <img data-src="./pic/ourpartners.jpg"alt=""uk-img>
+    </div>
+
+    <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom"style="font-weight:300;">
+        Какие аксессуары для штор мы используем:
+    </h1>
+    <div class="uk-position-relative uk-visible-toggle uk-light uk-margin-medium-bottom"tabindex="-1"
+        uk-slideshow="ratio: 8:3; animation: push">
+        <ul class="uk-slideshow-items">
+            <li>
+                <img src="https://sovershenstvospb.ru/img/curtain-accessories_large.jpg"alt=""uk-cover>
+            </li>
+        </ul>
+        <a class="uk-position-center-left uk-position-small uk-hidden-hover"href="#"uk-slidenav-previous
+            uk-slideshow-item="previous"></a>
+        <a class="uk-position-center-right uk-position-small uk-hidden-hover"href="#"uk-slidenav-next
+            uk-slideshow-item="next"></a>
+    </div>
+
+    <div class="uk-container uk-container-large">
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-medium-bottom"style="font-weight:300;">
+            Наши проекты
+        </h1>
+        <div class="uk-grid-medium uk-child-width-1-2@s uk-child-width-1-4@m uk-text-center uk-margin-medium-bottom"
+            uk-grid
+            uk-scrollspy="cls: uk-animation-scale-up uk-transform-origin-bottom-right; target: .uk-cover-container;
+                            delay: 150; repeat: true">
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/01.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/02.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/03.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/04.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/05.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/06.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/07.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/08.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/09.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/10.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/11.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/12.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/13.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/14.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/15.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/16.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/17.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/18.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/19.jpg"alt=""uk-cover>
+                </div>
+            </div>
+            <div>
+                <div class="uk-cover-container">
+                    <canvas width="400"height="400"></canvas>
+                    <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/20.jpg"alt=""uk-cover>
+                </div>
+            </div>
+        </div>
+        <div class="uk-text-center uk-margin-remove">
+	    <button class="uk-text-center uk-button uk-button-default uk-button-small" id="button">Ещё 64 проекта</button>
+        </div>
+
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-remove-bottom"style="font-weight:300;">
+            Текстильное декорирование
+        </h1>
+        <h3 class="uk-margin-remove-top uk-margin-medium-bottom uk-text-center" style="font-weight:300;">Так же, мы можем осуществить текстильное декорирование общественных и частных объектов:</h3>
+        <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-margin-medium-bottom"uk-grid>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv01.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Балдахины</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv02.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Гостиницы</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv03.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Рестораны</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv04.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Офисы</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv05.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Кабинеты</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv06.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Актовые залы</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv07.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Яхты</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="https://xn-----klczfnbhhs8db6bxc.xn--p1ai/assets/img/objiv08.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Загородные дома</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-remove-bottom"style="font-weight:300;">
+            ГЕОГРАФИЯ
+        </h1>
+        <h3 class="uk-margin-remove-top uk-margin-medium-bottom uk-text-center" style="font-weight:300;">Мы так же можем выполнить проект по текстильному декорированию в любом городе РФ и Европы</h3>
+        <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-margin-medium-bottom"uk-grid>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_01.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Москва</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_02.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Казань</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_03.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Новосибирск</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_04.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Екатеринбург</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_05.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Волгоград</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_06.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body"> 
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Нижний Новгород</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_07.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Самара</h3>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <div class="uk-card uk-card-default">
+                    <div class="uk-card-media-top">
+                        <img src="./pic/geography_08.jpg"alt="">
+                    </div>
+                    <div class="uk-card-body">
+                        <h3 class="uk-card-title uk-text-center" style="color:#fff;">Пермь</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h1 class="uk-heading-primary uk-light uk-text-center uk-margin-remove-bottom"style="font-weight:300;">
+            Выберите и расчитайте свои шторы:
+        </h1>
+        <h3 class="uk-margin-remove-top uk-margin-medium-bottom uk-text-center" style="font-weight:300;">Воспользуйтесь нашим калькулятором расчёта стоимости штор, кликнув на банер внизу. <br> Вы увидите ткани в интерьере, кликнув на понравившуюся -<br> Вы увидите множество тканей, из которых мы можем сшить Вам шторы.<br>Калькулятор прост в обращении и позволяет выбрать шторы по подходящие Вам цене, размерам и дизайну.</h3>
+        <a>
+            <img data-src="https://sovershenstvospb.ru/assets/img/bbanerr.jpg"
+                class="uk-width-1-1 uk-margin-medium-bottom"alt=""uk-img href="#modal-full"uk-toggle>
+        </a>
+        <div class="uk-text-center uk-light uk-margin-medium-bottom ">
+            <p class="uk-margin-remove">
+            <a class="uk-button uk-button-default uk-button-large uk-light uk-margin-right" href="/index.php?id=47983" id="button">Готовые комплекты</a>
+            <a class="uk-button uk-button-default uk-button-large uk-light" href="/index.php?id=48016" id="button">Калькулятор штор</a>
+            </p>
+        </div>
+
+    </div>
+
+    <!-- modal -->
+    <div id="modal-full"class="uk-modal-full"uk-modal>
+            <div class="uk-modal-dialog" style="background:#171e26;">
+                <button class="uk-modal-close-full uk-close-large" type="button" uk-close style="background:#171e26;"></button>
+                <div class="uk-container uk-container-large">
+                    <div class="uk-position-relative uk-visible-toggle uk-light uk-margin-large-top" tabindex="-1"
+                        uk-slideshow="animation: push;ratio:16:4;">
+    
+                        <ul class="uk-slideshow-items">
+                            <li>
+                                <img src="./pic/landing_gasket_01.jpg"alt=""uk-cover></a>
+                            </li>
+                            <li>
+                                <img src="./pic/landing_gasket_02.jpg"alt=""uk-cover></a>
+                            </li>
+                            <li>
+                                <img src="./pic/landing_gasket_03.jpg"alt=""uk-cover></a>
+                            </li>
+                        </ul>
+                        <div class="uk-position-center uk-position-small uk-width-1-1 uk-text-center">
+                            <h1 class="uk-heading-hero" uk-slideshow-parallax="x: 100,-100">Выбери свой дизайн</h1>
+                        </div>
+    
+                        <a class="uk-position-center-left uk-position-small uk-hidden-hover"href="#"uk-slidenav-previous
+                            uk-slideshow-item="previous"></a>
+                        <a class="uk-position-center-right uk-position-small uk-hidden-hover"href="#"uk-slidenav-next
+                            uk-slideshow-item="next"></a>
+    
+                    </div>
+    
+                    <div class="uk-grid-medium uk-child-width-1-2@s uk-child-width-1-4@m uk-text-center
+                                uk-margin-large-bottom uk-margin-medium-top"
+                        uk-grid
+                        uk-scrollspy="cls: uk-animation-scale-up uk-transform-origin-bottom-right; target:.uk-cover-container; delay: 150; repeat: true">
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=214668">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/kobe_elements_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=217364">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/arben_master_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=212306">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/Linen-Instincts_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=210892">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/caro_arcadia_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=183722">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/72897_01.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211567">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/fenton.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=210866">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/caro_celebrity_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=212930">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/casamansa_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>  
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213091">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/Harlequin_CALLISTA_BURNET_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=210765">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/SilkBombey_interiors.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=182423">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/Alder300_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213377">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/colefax&flower_oriana_melior_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211291">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/1019.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213099">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/Harlequin_Kallianthi_GRASSES_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211330">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/BRU0067C.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=212945">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/CASAMANSE_TOURACO_TOURACO_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211420">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/BRU0105C.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211438">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/1020.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211451">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/caro_protego.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213186">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/Zoffany_EDOFABRICS_MOON%20SILK_int.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213970">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/espocada_elixir_collection_int.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=214567">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/Elements_20cube.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=218746">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/i-liv_x_collection_int.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=210844">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/3.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=212959">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/CASAMANSE_KEW-PARK_SONGBIRD_int.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211626">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/galaxy_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213083">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/Harlequin_CALLISTA_ANGELIKI_int.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=212996">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="https://sovershenstvospb.ru/assets/pic/CASAMANSE_KEW-PARK_PIERRE-DE-LUNE_int.jpg" alt="" uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=214546">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/Elements_Alinea_cube.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211299">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/BRU0116C.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211510">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/caro_aspen_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211272">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/BRU0114C.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=215111">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/kobe_senses_vibese.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=212938">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/CALLISTA_Persephone_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213319">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/CASAMANSE_ACQUA_VIVA_LUTEA_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211405">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/BRU0084C.jpg "alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=213311">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/CASAMANSE_ACQUA_VIVA_EAU_VIVE.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=214320">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/kobe_elements_2int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=217039">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/arben_ibiza.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211660">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/illusion_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=218754">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/isadore_maize_main_main__4.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=217611">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/arben_trend_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=211605">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/operetta_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                        <div>
+                            <div class="uk-cover-container"><a href="https://sovershenstvospb.ru/index.php?id=218629">
+                                <canvas width="400"height="400"></canvas>
+                                <img src="./assets/pic/arben_MARGARET_int.jpg"alt=""uk-cover></a>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
